@@ -1,7 +1,18 @@
-//MO000-001.TXT ANA00000 TO ANA00001
-évaluation_Risque		NFI		nouveau fichier
-Actifs		NFI		nouveau fichier
-Menaces		NFI		nouveau fichier
-Contrainte_Actifs_évaluation_Risque		NWL	Actifs (IDActifs) et évaluation_Risque (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et évaluation_Risque (IDActifs)
-Contrainte_Menaces_évaluation_Risque		NWL	Menaces (IDMenaces) et évaluation_Risque (IDMenaces)	Nouvelle liaison entre les fichiers Menaces (IDMenaces) et évaluation_Risque (IDMenaces)
-root		CNX+		
+//MO001-002.TXT ANA00001 TO ANA00002
+évaluation_Risque		TAR	142	nouvelle taille enregistrement : 142
+évaluation_Risque	IDConsultant	RUB+		IDConsultant est une nouvelle clé
+évaluation_Risque	IDVulnérabilité	RUB+		IDVulnérabilité est une nouvelle clé
+évaluation_Risque	niveauRisque	RUB+		niveauRisque est une nouvelle rubrique
+évaluation_Risque	recommandation	RUB+		recommandation est une nouvelle rubrique
+Actifs		TAR	110	nouvelle taille enregistrement : 110
+Actifs	nomActifs	RUB+		nomActifs est une nouvelle rubrique
+Actifs	descActifs	RUB+		descActifs est une nouvelle rubrique
+Menaces		TAR	110	nouvelle taille enregistrement : 110
+Menaces	nomMenaces	RUB+		nomMenaces est une nouvelle rubrique
+Menaces	descMenaces	RUB+		descMenaces est une nouvelle rubrique
+Consultant		NFI		nouveau fichier
+Vulnérabilité		NFI		nouveau fichier
+Entreprise		NFI		nouveau fichier
+Contrainte_Consultant_évaluation_Risque		NWL	Consultant (IDConsultant) et évaluation_Risque (IDConsultant)	Nouvelle liaison entre les fichiers Consultant (IDConsultant) et évaluation_Risque (IDConsultant)
+Contrainte_Vulnérabilité_évaluation_Risque		NWL	Vulnérabilité (IDVulnérabilité) et évaluation_Risque (IDVulnérabilité)	Nouvelle liaison entre les fichiers Vulnérabilité (IDVulnérabilité) et évaluation_Risque (IDVulnérabilité)
+Contrainte_Entreprise_Consultant		NWL	Entreprise (IDEntreprise) et Consultant (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et Consultant (IDEntreprise)
