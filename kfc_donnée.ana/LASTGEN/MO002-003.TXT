@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Consultant		TAR	220	nouvelle taille enregistrement : 220
+Consultant	mdp	RUB+		mdp est une nouvelle rubrique

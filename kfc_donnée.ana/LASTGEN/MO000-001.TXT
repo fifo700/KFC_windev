@@ -1,0 +1,7 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+évaluation_Risque		NFI		nouveau fichier
+Actifs		NFI		nouveau fichier
+Menaces		NFI		nouveau fichier
+Contrainte_Actifs_évaluation_Risque		NWL	Actifs (IDActifs) et évaluation_Risque (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et évaluation_Risque (IDActifs)
+Contrainte_Menaces_évaluation_Risque		NWL	Menaces (IDMenaces) et évaluation_Risque (IDMenaces)	Nouvelle liaison entre les fichiers Menaces (IDMenaces) et évaluation_Risque (IDMenaces)
+root		CNX+		
