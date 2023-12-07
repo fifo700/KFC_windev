@@ -1,3 +1,19 @@
-//MO002-003.TXT ANA00002 TO ANA00003
-Consultant		TAR	220	nouvelle taille enregistrement : 220
-Consultant	mdp	RUB+		mdp est une nouvelle rubrique
+//MO003-004.TXT ANA00003 TO ANA00004
+évaluation_Risque		TAR	103	nouvelle taille enregistrement : 103
+évaluation_Risque	niveauRisque	CNW	Entier sur 4 octets$Chaîne	la rubrique niveauRisque a pour nouveau type Entier sur 4 octets
+évaluation_Risque	IDEntreprise	RUB+		IDEntreprise est une nouvelle clé
+évaluation_Risque	champ	RUB+		champ est une nouvelle rubrique
+évaluation_Risque	recommandation	RUB-		la rubrique recommandation est supprimée
+Actifs		TAR	119	nouvelle taille enregistrement : 119
+Actifs	estCoche	RUB+		estCoche est une nouvelle rubrique
+Actifs	IDévaluation_Risque	RUB+		IDévaluation_Risque est une nouvelle clé
+Menaces		TAR	119	nouvelle taille enregistrement : 119
+Menaces	IDévaluation_Risque	RUB+		IDévaluation_Risque est une nouvelle clé
+Menaces	estCoche	RUB+		estCoche est une nouvelle rubrique
+Consultant		TAR	237	nouvelle taille enregistrement : 237
+Consultant	mdp	CNW	Mot de passe$Chaîne	la rubrique mdp a pour nouveau type Mot de passe
+Contrainte_évaluation_Risque_Menaces		NWL	évaluation_Risque (IDévaluation_Risque) et Menaces (IDévaluation_Risque)	Nouvelle liaison entre les fichiers évaluation_Risque (IDévaluation_Risque) et Menaces (IDévaluation_Risque)
+Contrainte_évaluation_Risque_Actifs		NWL	évaluation_Risque (IDévaluation_Risque) et Actifs (IDévaluation_Risque)	Nouvelle liaison entre les fichiers évaluation_Risque (IDévaluation_Risque) et Actifs (IDévaluation_Risque)
+Contrainte_Entreprise_évaluation_Risque		NWL	Entreprise (IDEntreprise) et évaluation_Risque (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et évaluation_Risque (IDEntreprise)
+Contrainte_Actifs_évaluation_Risque		DEL	Actifs (IDActifs) et évaluation_Risque (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et évaluation_Risque (IDActifs)
+Contrainte_Menaces_évaluation_Risque		DEL	Menaces (IDMenaces) et évaluation_Risque (IDMenaces)	Liaison supprimée entre les fichiers Menaces (IDMenaces) et évaluation_Risque (IDMenaces)
