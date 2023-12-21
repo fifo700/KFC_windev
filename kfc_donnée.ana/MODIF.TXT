@@ -1,3 +1,11 @@
-//MO002-003.TXT ANA00002 TO ANA00003
-Consultant		TAR	220	nouvelle taille enregistrement : 220
-Consultant	mdp	RUB+		mdp est une nouvelle rubrique
+//MO010-011.TXT ANA00010 TO ANA00011
+évaluation_Risque		NFI		nouveau fichier
+Consultant		TAR	254	nouvelle taille enregistrement : 254
+Consultant	IDEntreprise	RUB+		IDEntreprise est une nouvelle clé
+Consultant	IDMenaces	RUB+		IDMenaces est une nouvelle clé
+Contrainte_Entreprise_Consultant		NWL	Entreprise (IDEntreprise) et Consultant (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et Consultant (IDEntreprise)
+Contrainte_Vulnérabilité_évaluation_Risque		NWL	Vulnérabilité (IDVulnérabilité) et évaluation_Risque (IDVulnérabilité)	Nouvelle liaison entre les fichiers Vulnérabilité (IDVulnérabilité) et évaluation_Risque (IDVulnérabilité)
+Contrainte_Entreprise_évaluation_Risque		NWL	Entreprise (IDEntreprise) et évaluation_Risque (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et évaluation_Risque (IDEntreprise)
+Contrainte_Consultant_évaluation_Risque		NWL	Consultant (IDConsultant) et évaluation_Risque (IDConsultant)	Nouvelle liaison entre les fichiers Consultant (IDConsultant) et évaluation_Risque (IDConsultant)
+Contrainte_Menaces_Consultant		NWL	Menaces (IDMenaces) et Consultant (IDMenaces)	Nouvelle liaison entre les fichiers Menaces (IDMenaces) et Consultant (IDMenaces)
+Contrainte_Actifs_évaluation_Risque		NWL	Actifs (IDActifs) et évaluation_Risque (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et évaluation_Risque (IDActifs)
