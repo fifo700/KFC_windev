@@ -27,6 +27,12 @@ project :
      internal_properties : CAAAAAgAAAC0kpyYJxwUFy2x9y0MbUI9ptvlNQkEMkSiRivoDvelU5GtZzgy04rlkrchn2eZYVehoQ==
      physical_name : .\FEN_SansNom1.wdw
      type : 2
+   -
+     name : FEN_Connection
+     identifier : 0x45ad002f06f72ba7
+     internal_properties : CAAAAAgAAACEguzI96wEJz0f9D/P4zDmionxqSF4ReVOL+9JE/QgiGCyMXqIRmlLYscxjxfJsSeRkQ==
+     physical_name : .\FEN_Connection.wdw
+     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []
