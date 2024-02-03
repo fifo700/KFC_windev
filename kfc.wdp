@@ -39,6 +39,18 @@ project :
      internal_properties : CAAAAAgAAACehPaqGUbugUtwDlcq7db8iC9XD7Wg9D5W3dcfq2qqdo5A+6CysTaQLBGLdT2zT0GLiw==
      physical_name : .\FEN_Menu.wdw
      type : 2
+   -
+     name : FEN_Client
+     identifier : 0x45be12b904a1e34c
+     internal_properties : CAAAAAgAAABQroiUE0jg+0FkpO/dJYYtIqXxYWvwkHi2dTnZZ77WGv7MfFdJ+16YJhuFczOtVUu1vQ==
+     physical_name : .\FEN_Client.wdw
+     type : 2
+   -
+     name : FEN_Audit
+     identifier : 0x45be1395081a3cf6
+     internal_properties : CAAAAAgAAACFge0xDqsDHNQ3fIp2Q1i0x6qGnjCV7lRWbQTPY9I4mHxglDjTNSDfea4okBDAuCiQkA==
+     physical_name : .\FEN_Audit.wdw
+     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []
