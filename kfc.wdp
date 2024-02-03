@@ -22,12 +22,6 @@ project :
   identifier : 0x455f278d01cfe637
   elements :
    -
-     name : FEN_SansNom1
-     identifier : 0x455f27dd056b1f14
-     internal_properties : CAAAAAgAAABDP7vv3ImhugbGHFbl3v1cQXwoCMJtaD+idlJf1TDiDirGCIfhbCF6Z9zGMvLuin5Gzg==
-     physical_name : .\FEN_SansNom1.wdw
-     type : 2
-   -
      name : FEN_Connection
      identifier : 0x45ad002f06f72ba7
      internal_properties : CAAAAAgAAACEguzI96wEJz0f9D/P4zDmionxqSF4ReVOL+9JE/QgiGCyMXqIRmlLYscxjxfJsSeRkQ==
