@@ -46,6 +46,12 @@ project :
      physical_name : .\FEN_Audit.wdw
      type : 2
    -
+     name : FEN_Modifier_Client
+     identifier : 0x45c7730c1369a425
+     internal_properties : CAAAAAgAAACU8vw4h/y0tw0ZA7QK22lMOl15edO51ISOO5iaD+YuMtZkvWcNzj5tctfBP8c5wTeBgQ==
+     physical_name : .\FEN_Modifier_Client.wdw
+     type : 2
+   -
      name : FEN_Ajouter_Client
      identifier : 0x45c7715706f1f786
      internal_properties : CAAAAAgAAACppZH1Mm9HaHB8eM7wvmX2VTKY2PhmSjtSmpabjGkt89UfBfL8Ci1UFQr0zFSMdGSstA==
