@@ -45,6 +45,12 @@ project :
      internal_properties : CAAAAAgAAAAtKQUZppObRBwoC5AqTKJpt8qGrhAVvvR2BUzHCwoAMMRYT8HRdZSAQebQKOgY4NA4OA==
      physical_name : .\FEN_Audit.wdw
      type : 2
+   -
+     name : FEN_Ajouter_Client
+     identifier : 0x45c7715706f1f786
+     internal_properties : CAAAAAgAAACppZH1Mm9HaHB8eM7wvmX2VTKY2PhmSjtSmpabjGkt89UfBfL8Ci1UFQr0zFSMdGSstA==
+     physical_name : .\FEN_Ajouter_Client.wdw
+     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []
