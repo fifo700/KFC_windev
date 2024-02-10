@@ -63,6 +63,24 @@ project :
      internal_properties : CAAAAAgAAACppZH1Mm9HaHB8eM7wvmX2VTKY2PhmSjtSmpabjGkt89UfBfL8Ci1UFQr0zFSMdGSstA==
      physical_name : .\FEN_Ajouter_Client.wdw
      type : 2
+   -
+     name : FEN_Ajouter_Audit
+     identifier : 0x45c7772502fda698
+     internal_properties : CAAAAAgAAABexLZqWQYuwYuD5TdredVBTmMtXWHv8XiO+8evimsh9w3B9z+9RcDb7FFLtX1zD4FLyw==
+     physical_name : .\FEN_Ajouter_Audit.wdw
+     type : 2
+   -
+     name : FEN_Modifier_Audit
+     identifier : 0x45c7774403411f52
+     internal_properties : CAAAAAgAAADNT/uXYF1leTbKJTLrlINSC69cxBs2IsGKYLEKhOqvYwsjxe7J6yAtKUjzjLdT7NdI
+     physical_name : .\FEN_Modifier_Audit.wdw
+     type : 2
+   -
+     name : FEN_Supprimer_Audit
+     identifier : 0x45c7775c037d7c28
+     internal_properties : CAAAAAgAAADTLwsfrJmRShZeTFULgOjuGw4aMvQK0CNCDgdoQ/KgGOQoPs6oU5kyN+zWIuIe2s42Pg==
+     physical_name : .\FEN_Supprimer_Audit.wdw
+     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []
