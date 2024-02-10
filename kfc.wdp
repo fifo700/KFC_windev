@@ -46,6 +46,12 @@ project :
      physical_name : .\FEN_Audit.wdw
      type : 2
    -
+     name : FEN_Supprimer_Client
+     identifier : 0x45c7739a15eccf52
+     internal_properties : CAAAAAgAAABO1Kb6SXY+cXtzYWT+2C4vegtB6fmndxN2xa7F7AmDtUffUwzfPhxLHAH7xU2Df3Fb2w==
+     physical_name : .\FEN_Supprimer_Client.wdw
+     type : 2
+   -
      name : FEN_Modifier_Client
      identifier : 0x45c7730c1369a425
      internal_properties : CAAAAAgAAACU8vw4h/y0tw0ZA7QK22lMOl15edO51ISOO5iaD+YuMtZkvWcNzj5tctfBP8c5wTeBgQ==
