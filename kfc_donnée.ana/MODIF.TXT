@@ -1,2 +1,4 @@
-//MO011-012.TXT ANA00011 TO ANA00012
-Consultant	mail	CLEN*		la rubrique mail est maintenant une clé
+//MO012-013.TXT ANA00012 TO ANA00013
+code		NFI		nouveau fichier
+Contrainte_Consultant_code		NWL	Consultant (IDConsultant) et code (IDConsultant)	Nouvelle liaison entre les fichiers Consultant (IDConsultant) et code (IDConsultant)
+MaConnexion1		CNX+		

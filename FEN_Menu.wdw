@@ -154,6 +154,23 @@ window :
     code_elements :
      type_code : 8
      p_codes : []
+  -
+    name : IMG_SansNom4
+    identifier : 0x25d4a97702222bf6
+    internal_properties : CAAAAAgAAABCtXIA+g2Av5fDn5u5WmSr8i0b6ofwC/wQkPtz7FxQTecFktUexeUqMM41qbhQHKEoPx94UF7g9Y8mtEiig9H1k6i4YxfEda5QR8W91h6trogU9vsv+3vW8Uef+DsvjJOLCcoQt/xvi4raFjU4Q/9LZgkq6T5D0PAGEWFfQwdYwa9F6Y9HReuf20jeP4SgbjVGMNCjf4K+PHqOZamLUj4FIQYxZ+dWw4QC131SSVna2ceW9JItoWYqE7MJwjbK7NDgKNZDcvN1goUBWqYdN6h6ySBReQHVwbz11ta24JpCT9G/aT5RbZhMUMrIxnLfcCnPikcJMVC3VuLiC8tV2/Mmq8z9jmUNr2Ij2szsZ3gNGrY3DH+Yq1GM6LPalPN1Hc4IWO5LITEIna+aWQwmaFe2t/9OBiyIpdrVpax7qsS2QBd8KTydG9l7K9MWMcVopPZHt8KDIqcZEab7s7YD5s2RCYd0E4lsB+p8F3pEQywfSjRU+xj1speWSxYIOjO9NTitMNxp5vqj/lisANDsG0Mbl07MhuOGyrj4yJG9L0eBGOGUv3Yx6OoIVrfSGZ/hoSFRzh/OZDzC9lvGC/ahlCEhpzbXAzrC961/11UhnMa5sA2F9BLBd1Qw7SIdp1t67pcDXJrzaIr2oGXlMGIWdjx714cB16owv1oc6N4WxsVVkiKy9d4atpXWQgiUsil+/vDwT193BkzQbtq4LjBQMhoaKrz8VWrEae5efmUBzNoQSqEG0xGPmFEpp5ztlHklC6mU0hTyNJjvmXv51qCBZZgOngdA/mfFzykpAD0c8rES6jyZzyIxIQgOx5m1wWRFRmIrmYVo/oE6TnUZRvBiYO5TDYXmdYsGUQ==
+    properties :
+     x : 8
+     y : 8
+     width : 42
+     height : 30
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         Ouvre(FEN_Connection)
+        type : 18
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x25b4eed7019e1b3b
