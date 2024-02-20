@@ -34,9 +34,9 @@ window :
          Ouvre(FEN_Client)
         type : 18
   -
-    name : SAI_SansNom1
+    name : SAI_EMAIL
     identifier : 0x25d4bb2d0a205a0b
-    internal_properties : CAAAAAgAAACD5DDWAIvHdGDfQ3N7bpKWL97o6o95R+buUwkT5ey9CPeWODVU2ix8m5/vYN+VtMVK88t/hCUtDuoCLn/J/GB+dKkzUXXALkuMaU1xW/igWLhsw3qYdU6RPw5yi2aCvcHTiCHNB1hupsaz8u4Ut3E3eNMJe7D8dgvFgNCVuYNVt98/mGC6PU2Fa4VLAjDEz/T2Ge4S4+BFHK9/WNnrvmKWbaEpVuJ57VdWz61VOyk6HBarIyLKp+6cI3/et7PhqLQKAyZRbPam/InufYt3wns2jH3IXrnuCqxi0S6VvojlRkFBjeOwi0wokywzLiBHOokGGENwd9iCh3djrKb6Xc/gOPcdB0Mvt1+R0JZomAt2dgLUB66LuN2fmz0Q882X7mTAMdxWwHSVpZXFivzmqlrs9x1X0+FzGxQbQ0PPsp6SL+XXuzdrrB/z+kJNKXA0QR28WreIt14s/VpgCZkHUgzvoYozWQrOt9v8s9/duKcat7b9gawItKsExnkTCJoZWm1as3wJjh2sZLj+giCVKngOtGgf++uo2w6QaZaC8U8yk1YbmN3gD7Zla/sT3+1tMMszPHxjGlTXiKOLyt9LSJQbzP6uAlwuC7QSVu8TaIWUdQer3mhxFoDjMAg8JOE7+9gREzTZGOfWQFWOhk6bCvwRtUbvKPvy6jPzIWCWFegXMG9cy/p5JaNtU5fUKkh9X18ibBP65RAj6dpcXzYKipHeWXHffMRFMDkA6O2sYDHId042inPW7SZjBGlfm6zN0LYSKPAln6vquq8on2dbawcibJFvCYYNsOfLlxyFa51jJp6o4XpMFrf8ulhLW579WnW9HjR1AvzmZtzg89yg82EtRDo9Ck5Mu1rxsTnHYISJt46yrO3i3HOTazkgqWx1VNva7K/s21bWAGUVuPfipGZpsAOera2oTjm4G9MQ5FnA468KEq+1JGksDyQEJOqCjdf2ctsg6IwXUyrXH3bh0R0WDDa0YmQOP32Yx1XGzro+K+o9xPAfskSQl6YrhWtLtbqpDn+2zIEcW1R8qNPWEQEzNSfy5PpZ0gsnwzebKOBGuwKuOGKJm8rtDsQ5R+M24w1USjTR2gVyno5MH6M/GmANso/+78M74HvJwXErULLCeDiuST/InnzovjkyYefFeyO79ny+bnxOwjOUZq0MzPmfsrm3OVOA+49fJJARUL0ZJpBwKaAof/g=
+    internal_properties : CAAAAAgAAABOgxc55Rx+q7TiWIgo9geFMpjiq/K1W44tmwd09nhmIEFQ7Q4Y7vykoOQykZrMB3seKLEE7iIUqVQJn7D92Jer7L8oVCalazMFG5FRUj3Yz3I5lRop6lrH2GCvoIqtZl/sKOChNpjnqKUEG9mQMOyMms6zSKAm19K8DhBaGT1zmJXAYuXAKDNi3YEUD3PMLBmHT32jFtSmjG0DjN7fzEhVQ2B1nJZZF+lLed3PKQ8kYMXIwrzK1pPVBRioysLhSkST2XNZGXzeq++eEovctBHZxWRvPDkpjLr+1tBk11W1fJnB1RJrdpEXU/1zTgoMHsXtkGNahuHsls5NLGi8VJkayUDQWtqDWpcAmwIjyuBzxIbhy8iiSkJALfiJTrpNZEe+5mELmHXzUQA53evH/oFhQ3jYQgBNSwkFLMLfIVuPgXuwt4d9wOduFtfjoMFhBkneGvwBCS69e6jdrxak8b3X4pIlPpKohIoFSQQbyiH+JQImrhgPf6jp67mY1w/zUff0Garzwf17Tp0YJ8p/8mkcBd1YEUz0049LIqkfMz2DQsn2po4ofoga8Pn8+b4AoLaQ/LKVmosk5h8br3qWli1FMJTkj41B8pya3rIhZTloCYvYXHbLUA17o5BdDLBcYMVCbYj7uwzpI+jpBxRc0it8/jvr742K2c6H5qi+fhI0SuoD1VgneLiFsLptUA1ShC7fc5CJk9IlndbPUFcOM6gOGsxe2WCf5RMbMHW1k0uCtc2fCCZUVd4g38Txy6S+E9Tph8W3opVF+Fj8AOj5TyLOafHT71gqR4zUBhDLRFWS/JxcFVNzUBnIsoKckdVfzQH9McRvVeFRBWaFClDTGHxCumMHAOPmt0iiiOk00SiWM3g+Ld+PKNWYHRDFauVY5nozjbwAsJpKVDnqems02CdVBSLC7zvcGvxhC4B8b6Iwj5dQ9ni4WwAx8wqfJBiEMkUcvzbAKZD9tDTpL6Xhisejt5xPJErKoGLXzxR3HqZwDGpRtr4hoxnwS7N6JI6Kr2BEHnueb5cc6K7P1ZvXrPgrBfhLALBjdEiXmA7S0O+ItU/jRoaaAFr+pgBh1+8sSO3raEik1itYcQma4brPwW2U1jEqJvRT2PoYAfC2QGRL8QFjSRNnCUMlUrBsHo/H5EG9uR8Gw/aQFyCpaxXHTiXBB4TT1nEqwbEFPs8C1bHxu/PmQzQ=
     properties :
      x : 27
      y : 89
@@ -46,6 +46,14 @@ window :
     code_elements :
      type_code : 3
      p_codes :
+      -
+        code : |1+
+         HLitRecherchePremier(Consultant, mail, SAI_Email)
+         
+         SI PAS HTrouve(Consultant) ALORS 
+         	ToastAffiche("l'email n'existe pas",toastCourt, cvMilieu); RepriseSaisie(SAI_Email)
+         FIN
+        type : 16
       -
         type : 276
         enabled : false
@@ -58,7 +66,7 @@ window :
   -
     name : BTN_Simple3
     identifier : 0x25d4bb4d0a26d834
-    internal_properties : CAAAAAgAAABjOIPiqtLZgYx5qJQUk2AJVQrzG91nfasO/tPxDdgYegnxqh2ggrWKfZwpKk9K+S+y1jcL7zp4QV4XLwCh7Y5ozEqu+F4QIBWEtG4uy1XqWzcqGwvWcd/S4EtgteBAl2GMpSCnyqLwg0Pr5yYRqtQgD1lLInYMkHG2fZTu0n/X24T0oSvH/Li8syjT4kRaLhvIKZ6Ig2VyKz6AorxGbusiwqsp52lEiJMzjQG4bsmrKP9qVwdW5baZgDcPZlx20KKzjbm/ygp4gyj6fnMXjgJRCN7Aob2iYs4jMQe9zGHHCT9rDMq/31kFq+1aU5Gjg1m7VacLaRfKlQgzzCOtIsLdlE3GIn0B/jGaxhl4aMdsZ2NdgLlCaAjtVfqXEIl886cqQecOEV0petgxfx8oZ3KOQEyHekx5Vi4Hbr7faTg3Rz2++nnxXhNAx8hInJSc6Fa4HDlW5fArGg3QRXs6WlFLir9DxrKYAT5JbtaEVAsu4X9kQm1KeiuaSE3DurcWOXol4M3C4oABsjnwP3J1doQuzrjVqlpM8U7KmOcTYqcK3YCQZeW3JeGzX3xVwhYJrmCKpCrNXpQoUKFtRmiJHpsfW6Q1emQ0/ixqoDz9BkL0uKvWGEQvccAhIM46JZCBLc8ydvOq7iaIarhBbE2HSUErM8BkCd+NOQ5bXCjPHdfluAJ493pNC0UesQXHwdmYow4djNHkRAo+3OtAu0VFXfm1MWRspEy+iZZ3gkUW/PolqP+c44ALjAqThZw6DG1By+bZReY3BBqD41TnsQE41VAhTPzqh/8Ao/VB5PAhy37CGC/BG+an43npVJH7/OdT56U/a/mFA/l+wibBIVVXBUIIQ69O3s6JqjtO3q3zGzVaJ8g5bhk=
+    internal_properties : CAAAAAgAAAAD1sFckYuoruGx1ORgq6rjbVVKr1bVHg2eos910wQr/5mtBy0LZsuuAa3RKQ7OieB039NFgAy+0GEaCfdWwJyMadoC2gNNimXRHxa6q9ZHrSY7ETpcoTpgz3lfEYruf3M84qEf3taEp9+BeKAGriqkVhbZxh3DzVk5gQJJVsTg9sRJghM+hrIHO1kb8TMKzWvHvQLMR2QsGu4T0c8dqTCcrDzhGZpzFluVXqOy8kgCm7QleLpyv0/dH9rFPgshHAcgU/mYrxbST+mOl5WbUxms7n46wlHj7CV712Bw2r8mckQ0DftDn363uwT2vZ/iJST5hLWh6hDeQnTwEu4MKN188x/RFEMjm5wKWEBWi6/BBoFoVQU/OdmZk1i2vcZ5eA4W6GZZlB3RjXdOioG5MyVGInDPQEtK3yuebnsHIZXbQxby+4mImQ5y1K84H7NJR3s8h1W9Rmsd+sAu22YPiap2sLAZYf3p425UWgwnV/Q7EJ3PzDJ9a6twmS3Ly7YTIO9NQ68PyX03kgwyE9F6Jd0xZvXpk3sHF9pFBLfa2VzvbJThZRR+cgXZIkC30XvQ9U38GV62PUmChMZfHgdMb0Qio11Vhy/NZnI7GGxyx22zZS8H/p+WdnrdiW40dE2gjgqm2VdZG1VswDmBKtrCSijwpZNe0kg4DYR2KtjoJsoG4zLlaUlQ5C/KfjehtILDkP1fY3Mf9zPkPBRut8Ta9MACFU1EDdMD4UTSTpthxwsUNQeZ5T8SWUoZclpYt5Aa+uu5Vv4s6SGvJRkL0bwNNJcuEOV+dLPEMEiiFU1st8HUo2ROdRKnkAsZ4SPx8ZCSNOIyAatjOQnEVgMku05oFC3hV943Tef2rukxg1+aRwa9Lzby
     properties :
      x : 89
      y : 417
@@ -85,6 +93,70 @@ window :
          gpwActivationImmédiate: PopupAffiche(POPUP_InformationChangementMotPasse)
          gpwErreur: Error("An error occured during password recovery.");
          END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : SAI_SansNom2
+    identifier : 0x25d4c5540a450021
+    internal_properties : CAAAAAgAAAB061FffKAPVYyK0Km7L3T0OfmxCnerPC3RZI8nGnhlQ1iM+Lv1PU+o8Uvo+n25+PQT6x6JTsq9zm3SDElZ+fAmPgRvaK7hPM1e3Y1jE5YblDD2e3T6JniY7NMHmq3ikfX1UpslWpyAlpiCtkxQwqBNDWViTBhBsOSGFql6bXnzJYYVvAjlHCuxZb3E0+61xGLGrpZ7qJNvYOc9Xipw4UXRn778sFdwhv3EZjxqJgzD7dCskwJk7XFUxE0j3y644iTZ/9rKBLrjg3/L/2q6BaP7pqFY2BJ1ulLaEMc/5xDyEvMSLm84ORxJl6Jg6Mc0eDbSdrIVXqx9s9j61hYy+/n+WNIbUYmnEkBkw9jU1fiiGndQIOXnXjRwL2MaVsKeE54Gojj+bt0abVsxXDptiTue4OSf1ed9pJJtH8bWwpGhxiVQQbjAfRG7pu5T04vdtZ2PAVJp0jBYkvBJmb2SPqDB3pIlnFeyd3x/lTsH262Vco+uwnYiQqqh58Z2wXlOUN/j+0sdfYpeaSRgPqNQXXmHTAXy61K2JmjDE9B8cm4ByBuQU9W0T6gVLwINhc3TDmilA44WNs2iY7Ur4LYcDUFnTOPtlwN8Q+Myrbr62FtSIrkUjCm06KhwQH0lsWPzp4+PRqr6J1Mm7cHNOS0p2mxQA7shv1xAInL93LdZdXbrmT0z75csK9foj8o7VVj320CaxRcV0gwfCBRrCvFEuiGheUDLWd+rvgyQFxDXEqG42IKXsH7r7w4wkEROkkK9JrX4V1rypmG+S8mvwgJzOReHbEzFfHttCsi/7K0WDbm3ZZRni+fDfBk3ICtaOuLnKi5RWdy++Sy+eRJ/NktWz0fiIj9nacPwmxP/+pbQyAhtxvxxMMr5ggnAgbqVFiBNSPqmo4M5wuxKz8cQl3Z8oqSy9o5W3ny0VHYoVsKPSgO+EItNkJC04vPTIaFd3Xr6C5puBRFxY6ZjNIjahvkZMX+nWrdgF6v273bEHhjF3MbAMBwsDifsNKadUYnCILcle2svaZ1f04vK3p6XF3ZowdP0dzxEYcGR2HpjKuIODvKgpJYbwiechVhgztfAuutYIwAmF+wCZXu4e5r/nv6Dyre0PcisA5COKnbkDONu9FjukryOMg/Js12P/9KiHQ9GogO4zFRdHzM/uEQ9SwregBL7AmhgpuAmf3/YDhJoLl+v6bHU96yDCA==
+    properties :
+     x : 27
+     y : 177
+     width : 316
+     height : 63
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Lien
+    identifier : 0x25d4c56c0a60619a
+    internal_properties : CAAAAAgAAAAmgu4EHSyC+cWKpykjvrkHd4P2/uK4bxT0F8jtodoAvTwTaNoR9VWpvdzi+8Fg/qdQMj+ATWx1LjlXm4zdLl/Ql5rBi3AOgis4M6715RqduNZJOLi66Y9yqTPdY/ILB2bGrNXSCAQVi4DaDfw1uHZzCTOpPwUyFlzUdvrPE44/4kRMtImuqd5nMY3zVXxeGTcx9qTv2IihOh+6qgeMalrB0CpCrJb9gr45zNuIsUGQ1ye2SjhVG3upjMda168Ge6zX3zjtXlcX3ozgWkvRrvlM/tVKMmy7w+Tn2127bFRPiVz4Izg/gcY2B5ybRkepztEklsrk3n4HDvJlvYWBqK2jLvJd+i/9a80itn+jmEjl2TR7TJdvWrJ0bvBP8+iNbZ0+Y8qZwftWshLbFh7QpedVi8B97NdlUkXdyoqDRfoI0g1GAWhwcjeENjqhvTP+bmGSddxKQn9mbLriRcKwtCv1+xE6uLSgwzM8Xs/SxpNLD5zr00Ayfj9zDhbovvk41s8cjZ+/gG8JDz43COtzs4xQ0ZGW8NOS+npmr7PBuTimJmgliQN623PRnny2gPNYMWJFhivmjxUPRqKM+OJ4tfcweGXNpN6H6jzqfPP/0oR5RIOQq2MAmDg9A0ma31m9Q2mQMa9gUMm+wRTA352XjiV6rcxcn+qq8MAL5SYsCl/0ba1sXo3M+kGpfYwWrrIBbc6p/OSHwiY5IRVgAPuyJ7auKohO1H0U8O5A+5IUv9PVoDlb6TcnITGYNZVW61PFxDkN5gZeHQfRExdhPT4xbX1EGj/G2zm9EXlQfPbU+zoDh80/7IHMujiLO41DPLeS9odLM6kiEkIa6JyVWaTD1WpKG1wUvPQt8h1K+AvUfQ7s+BLUcHvEM4XDvJtIV9tGD4ujXFrhB4Iz9cH1MQuYA5g6zCsj
+    properties :
+     x : 117
+     y : 258
+     width : 126
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Libellé clicable ouvrant le navigateur selon l'URL affiché
+         
+        type : 14
+      -
+        code : |1+
+         // Exécuter l'adresse passée en paramètre
+         
+         
+         SI PAS HLitRecherchePremier(Consultant, mail, SAI_Email) alors
+         	HRAZ(code)
+         	CODE.Tokens = DateVersEntier(DateSys())+HeureVersEntier(HeureSys())
+         	Date est une date = DateSys()
+         	Date..Jour=+1
+         	code.Date_validité=DateHeureUTCVersLocale(Date)
+         	SI PAS HAjoute(code)  ALORS retour 
+         	
+         		
+         	
+         FIN
+         
+         
         type : 18
       -
         type : 161
