@@ -59,7 +59,7 @@ window :
         code : |1+
          // vérification basique
          si SAI_Email="" alors
-         	ToastAffiche("Veuillez saisir un E-mail ou un numéro de téléphone")
+         	ToastAffiche("Veuillez saisir un E-mail ")
          	DonneFocus(SAI_Email)
          	retour
          FIN

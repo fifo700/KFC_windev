@@ -174,10 +174,29 @@ window :
         type : 14
       -
         code : |1-
-         Entreprise.nomEntreprise = SAI_nomEntrep
-         Entreprise.Adresse = SAI_adressEntrep
-         Entreprise.numeroTelephoneEntreprise = SAI_numEntrep
-         Entreprise.entrepriseEmail = SAI_emailEntrep
+         
+         SI SAI_emailEntrep="" ALORS
+         	ToastAffiche("Veuillez saisir un E-mail ")
+         	DonneFocus(SAI_emailEntrep)
+         	RETOUR
+         FIN
+         // vérification du format
+         SI EmailVérifieAdresse(SAI_emailEntrep,emailValideSyntaxe)<>emailAdresseValide _ET_ PAS VérifieExpressionRégulière(SAI_emailEntrep, "^(0|\+33)[1-9]([-. ]?[0-9]{2}){4}") ALORS
+         	ToastAffiche("L'identification saisie ne correspond pas a un E-mail ou un numéro de téléphone.")
+         	DonneFocus(SAI_emailEntrep)
+         	RETOUR
+         FIN
+         SI SAI_nomEntrep <> "" ET SAI_adressEntrep <> "" ET SAI_numEntrep <> "" ET SAI_emailEntrep <> "" ALORS
+         	Entreprise.nomEntreprise				= SAI_nomEntrep
+         	Entreprise.Adresse						= SAI_adressEntrep
+         	Entreprise.numeroTelephoneEntreprise	= SAI_numEntrep
+         	Entreprise.entrepriseEmail				= SAI_emailEntrep
+         	
+         	HAjoute(Entreprise)
+         SINON
+         	Erreur("Une erreur est survenue.")
+         	
+         FIN
         type : 18
       -
         type : 161
