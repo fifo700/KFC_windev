@@ -17,32 +17,6 @@ window :
   heightMin : 650
  controls :
   -
-    name : BTN_Simple1
-    identifier : 0x25be1a1603c1a740
-    internal_properties : CAAAAAgAAABiYsGLbNBv5NAZj4Gsr4i55GPKATqQbgn7QL0ze525O1zMxpa4j92iWJXNaI6Fkpu/18zaNeZr/Pr/Mh9bvw/ghKZ4EwTxxtBtup0Tc0O1YW9NecIp62LdTh5lUexVLCuUmCaQVIzLqBSUQjdmJwduTbJ+YfTYqpyRPLFkYU/EQmaJhcyRv9voJo9BgDZuga1/PwCIX7kEN2ZSyySk05NckT3Vfa7obydeicPaWprkhL1Gzo8iZ5IQRP1XqZRvMd0FiyP+5ncguvaOEKVHnvxBCG+o4IkNJuJE7k4ZR0nyGJV4GMkxMAbibVlitZlFB0w6ZuQEFoPJKRwoqe95e3jXzP8cJuQ8S/BY0oyxxBzNSlKvopMTxdLD44Jsu1wTuAhAP6lpWa3/cIXDljT9XeV6RcpEv2g/+Pw2qv5+EAcLA4oZ8GQWPBIpBPrkokNxCDrxn3ZZKG1pOQM8HQchSVx/nirpm92NYPYOnuNSAVppuTCOYgWkNg41JlFboEWaDAoMmOjCzoomG2WJv4lZ10fqJCZOwXgSO8rWiKM0qsUW1QWWEBJRIQ3TbKqHYpfFyCsFNISxk84MG2jkLBEorNKRl5Sw0BzzrMSh2eGOPOvCmnIUGGQ8bxXaMfQJwoZm0/41OsVEpQLCBZjeXCZn9c62qQ8uwQSu6QAs2snlWDxvGkMy6ynnllgsB0NNpUmUGGL8r8qhKgq/FQFmScbapfbmUsRb6q6mGbdizd1iEVfHTXh3xhksLwlxLYAEzFkMuEfoADVBQi24y9mBXcM7c3m5D9/DeX3M73bqC4pc7AG7l/3+6cliRZ+tAt6mFC+eM8AzutkAzfuu/g78ZkMHl+vwdZj7lteQPxHayoEOMms369WTT4Phtnwgyg==
-    properties :
-     x : 95
-     y : 111
-     width : 182
-     height : 48
-    type : 4
-    code_elements :
-     type_code : 4
-     p_codes :
-      -
-        code : |1+
-         // Version 1
-         // Description 
-         // Bouton simple
-        type : 14
-      -
-        code : |1+
-         OuvreFenêtreMobile(FEN_Ajouter_Client)
-        type : 18
-      -
-        type : 161
-        enabled : false
-  -
     name : IMG_SansNom3
     identifier : 0x25be1a1603c4a740
     internal_properties : CAAAAAgAAACitkJPyHG0QRXKNKIQvc1rIUUc6xR4teWBaWlQrN8z6y3jcM3WiTQuFHT8pVJBzPpR0zIWbLDWtCH5jj4l6CZ/nmkcJUGPuCkHWMt+p30acaiUjC4nVSdwO3z16WnG0MhbpQL3l8LsraTugXt319NaSKwnFR6yV80bH57cxz4AaX1BuZuBL3MOBC7ES5t2y4mZt/4fUeGpkMU5LJPDiZcRVfw8tifoYSLf18yZ4N72Kt4wEPtWESeEp3uphVKpkzh0OFfZ/9FKvv/Oe4RiIidKAKNFKNnUUWv6KTQf09SvEOFkhR0sg4H9ptt+r9ndZwQtQBH+6cXRRYDXt91QrcTYnnKt/KBQ/vlA7sCJahEvd0Sz4b4WDzm94JO4yln5tfUM7796UKAzv7qEWBvME+Ipb/7/52KAZSYbdRQqOdBlUmSsg9z6FuS7qXODf2pFbJtPVx4/p75ZwYA3tc3/sGbI7QNK3CwIbyJStFcZsPnKvsJoxf5eP/DYLifKxs5U6RjlTcYazS4BRNmjmBoVAZCNhVkaQ0VrHmXMiGnPT/tUdWH+pJ1EUsVeK8T/EZ+W0KmBPc6SYe/6RcZwMQOnIu2kJrGGQl4FAQzIEm8BewaDc2uqcFOcreMW0yXmWWUF63r6K1Uo1traK7sQB7HKM5Sl6YcV9JdIIncanBBYvupjcKnkd2Yu6JRrl/kBw68uAPTlLWEBtNVEf16pjWihoymjZaO16HDMkfMfYix7fh9ZNlWY8YQPYeGpWvLI284kWABLbkvaa1GYR3VK2JSAJHMAkD708/jyr/VdwR3OCzNoke9kPNL/xymy+IB9zzc=
@@ -159,6 +133,32 @@ window :
       -
         code : |1+
          OuvreFenêtreMobile(FEN_Supprimer_Client)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Simple1
+    identifier : 0x25be1a1603c1a740
+    internal_properties : CAAAAAgAAABiYsGLbNBv5NAZj4Gsr4i55GPKATqQbgn7QL0ze525O1zMxpa4j92iWJXNaI6Fkpu/18zaNeZr/Pr/Mh9bvw/ghKZ4EwTxxtBtup0Tc0O1YW9NecIp62LdTh5lUexVLCuUmCaQVIzLqBSUQjdmJwduTbJ+YfTYqpyRPLFkYU/EQmaJhcyRv9voJo9BgDZuga1/PwCIX7kEN2ZSyySk05NckT3Vfa7obydeicPaWprkhL1Gzo8iZ5IQRP1XqZRvMd0FiyP+5ncguvaOEKVHnvxBCG+o4IkNJuJE7k4ZR0nyGJV4GMkxMAbibVlitZlFB0w6ZuQEFoPJKRwoqe95e3jXzP8cJuQ8S/BY0oyxxBzNSlKvopMTxdLD44Jsu1wTuAhAP6lpWa3/cIXDljT9XeV6RcpEv2g/+Pw2qv5+EAcLA4oZ8GQWPBIpBPrkokNxCDrxn3ZZKG1pOQM8HQchSVx/nirpm92NYPYOnuNSAVppuTCOYgWkNg41JlFboEWaDAoMmOjCzoomG2WJv4lZ10fqJCZOwXgSO8rWiKM0qsUW1QWWEBJRIQ3TbKqHYpfFyCsFNISxk84MG2jkLBEorNKRl5Sw0BzzrMSh2eGOPOvCmnIUGGQ8bxXaMfQJwoZm0/41OsVEpQLCBZjeXCZn9c62qQ8uwQSu6QAs2snlWDxvGkMy6ynnllgsB0NNpUmUGGL8r8qhKgq/FQFmScbapfbmUsRb6q6mGbdizd1iEVfHTXh3xhksLwlxLYAEzFkMuEfoADVBQi24y9mBXcM7c3m5D9/DeX3M73bqC4pc7AG7l/3+6cliRZ+tAt6mFC+eM8AzutkAzfuu/g78ZkMHl+vwdZj7lteQPxHayoEOMms369WTT4Phtnwgyg==
+    properties :
+     x : 95
+     y : 111
+     width : 182
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton simple
+        type : 14
+      -
+        code : |1+
+         OuvreFenêtreMobile(FEN_Ajouter_Client)
         type : 18
       -
         type : 161
