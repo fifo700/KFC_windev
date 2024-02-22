@@ -175,6 +175,25 @@ window :
       -
         code : |1-
          
+         SI SAI_adressEntrep="" ALORS
+         	ToastAffiche("Veuillez saisir une adresse ")
+         	DonneFocus(SAI_emailEntrep)
+         	RETOUR
+         FIN
+         
+         SI SAI_nomEntrep="" ALORS
+         	ToastAffiche("Veuillez saisir un nom ")
+         	DonneFocus(SAI_emailEntrep)
+         	RETOUR
+         FIN
+         
+         SI SAI_numEntrep="" ALORS
+         	ToastAffiche("Veuillez saisir un numéro ")
+         	DonneFocus(SAI_emailEntrep)
+         	RETOUR
+         FIN
+         
+         
          SI SAI_emailEntrep="" ALORS
          	ToastAffiche("Veuillez saisir un E-mail ")
          	DonneFocus(SAI_emailEntrep)
@@ -193,6 +212,7 @@ window :
          	Entreprise.entrepriseEmail				= SAI_emailEntrep
          	
          	HAjoute(Entreprise)
+         	ToastAffiche("Entreprise ajouter !")
          SINON
          	Erreur("Une erreur est survenue.")
          	
