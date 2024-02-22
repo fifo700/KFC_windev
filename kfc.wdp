@@ -81,12 +81,6 @@ project :
      internal_properties : CAAAAAgAAADTLwsfrJmRShZeTFULgOjuGw4aMvQK0CNCDgdoQ/KgGOQoPs6oU5kyN+zWIuIe2s42Pg==
      physical_name : .\FEN_Supprimer_Audit.wdw
      type : 2
-   -
-     name : FEN_Code
-     identifier : 0x45d6f9980b71dcfe
-     internal_properties : CAAAAAgAAAAFAW2xjiuDnFSvUk0Fdnwoa3g2vnbj9Siuoy3Mnpf/0WOdo7m5UrZ3+S6oEJBAOKgQEA==
-     physical_name : .\FEN_Code.wdw
-     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []

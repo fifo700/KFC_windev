@@ -37,7 +37,7 @@ window :
         type : 14
       -
         code : |1+
-         Ouvre(FEN_Audit)
+         OuvreFenêtreMobile(FEN_Audit)
         type : 18
       -
         type : 161
@@ -101,7 +101,7 @@ window :
         type : 14
       -
         code : |1+
-         Ouvre(FEN_Client)
+         OuvreFenêtreMobile(FEN_Client)
         type : 18
       -
         type : 161

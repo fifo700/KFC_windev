@@ -41,7 +41,7 @@ window :
   -
     name : BTN_Se_connecter
     identifier : 0x25ad002f00972ba7
-    internal_properties : CAAAAAgAAADE+d1HW6ScehR75y3lpuiuoh7eoVXbvWJP1B3JFMeWTXgNaLnEaipohNdDD2zvvSV6Yom9kZPrAP70VEdpkU8g19MRFaLizKtGNejrp8qv8GihON9KoW+Yl7telQtJdH5+S4c/XgVZbd/3NEdWI4s/STUEso8sJ1qOyxt0ScaoOccFBWMYESUZyG4SKI4+no3kI2/wLn15fZgtD91Q+kqo5nBcCK9yzWpCKV6UoSewjulIvnTaagOiykWslEs1TfIZim09/xMIopyz5wFaKIRfsW6tRqJeDXBTxVCsE00ZpDOJtxoYxbYTVB+JXY6nES2wOTpPZChb/29mOWSB7iFl7UrOvHsGPjPH0+iFIZGxTF8xnAsw7QlbRPKobRcQWubgYRTjQ4T4e4e/HH66hOsF4jpe5gNeWT7zW5SyYW3miJTKT+TQdCouGTCLPGPqYXVgsAGfvxGjAU3GysajtUAkb+eeKOonJzys0C3uNHScZ68OgOS89GpV36KPvH5WBxUvJ1Ayc9f5oiPs4r3hVOndhK2uprscLcD0oVPjPWbTVExD3xMmPuN5y2akJpyot9+dkWMCYckrjiQxIdxyBEtWdQyexrtqTdxOt8BoDOQcQe45BxKun2sivsvZ3tCB12LU/oHNOw/+jZNLm7geK1gxP3eSPRWBBNdpWZWziwmRLCMcDF1ltGTr+x6aVjJmhUH3w3X+hKmCpjjUr5dlJ44teMGdWPzeSEctUDHIprhYEyIupV61/qW48WY6flI9k9zz5Gv7tm9p78RXFKQJfZxuIpkX0qaO37Det5u1NZcvOQcIwA9oRyrKqShfcQnO23d0z3i81YeElJRabfdU3XaRyFiNMSYdxzJSQ0L4wpDBRg==
+    internal_properties : CAAAAAgAAADKs5WbAKwP7Mus7hw0OfOIerCt8cvVIOZjd/h7HUtGyWzgfrAjowBc/zB6/ariJc+vl5JkAvG0sby/S/8WC9iKdTtwcz8dT5VJS5qjCiw7xo0/oNJzCgefg8oovLZa1HV8dlzUdr/8bAWXYPV2PQV/x4xZnWt3zkXr/KiGV9xIQ6XfTtY+c3ramg9DgPRBxs+kKAK3PGL5vhcI03X5F6gl40+g4kRNtX8DJtRrdZLYiWXwBOSzXrZrSIyTcO9EDWIV3U6cXNjTz+2Tw3szfbxlKDy4ImnyaPuRXRdPTTnBJM1/cLtyVdEz9lLq2XvITijrxL5cOHCkzOa42SKzIMEEndVkvhICXu13i3VDZ7ZlLsGRwXdiDBT2NByygDKRkb0Wzo3zxzCI5OX836nizdKSyGRovsNWEmAcb3hH37JrO75TgBtQSxMwjaXBo/lq5uCmvUXv8cz6NidHOGW5xRc7kUzW5DCWLId0Ea+xCPormDvduIC2s9M+g5HB50p8HNBF8hwC4WZSv1kNtMh1GpawPCBMxKPXJhdAkhcK67pam06MYb02k5zwodF+d4z6gJL3uo38WTLeFQI0UwV67q4Zww08PHfzNNEG0GZ3LJKdJPgOxSD+FJj91BJD51AHmmXgzXf7KwIrRPPwg6sAk+VkLSS+hYfaG9I7jmu6G4t+Z7n5MnNZPQMmrRlE2fZwXuJNWnc4aMtfGIx+F3DdGg+yoI/yF8MyfPXmsddKEVmYrjuQOn9yJ29Lz6ZKQXbhYzLmlOsdrtX1eBtnszz7LS3FnOdRoGdovtGGxpjBrDKd4Q2BmJoaJ80AkiK+G9p9wXwGxgvhjj8wPKpVyu2Jh8INHWAPFrYy853Eu/15T8c9
     properties :
      x : 20
      y : 425
@@ -105,7 +105,7 @@ window :
          
          
          
-         Ouvre(FEN_Menu)
+         OuvreFenêtreMobile(FEN_Menu)
          
          
          
@@ -194,33 +194,6 @@ window :
          // Libellé simple
          
         type : 14
-  -
-    name : BTN_Lien
-    identifier : 0x25d6f34b0d7640d2
-    internal_properties : CAAAAAgAAAAaGKOGrfAZFExKzK6xMt1fqw9XuRRCWxlKBmIcIR2ePCqWMGnVhYl7QKQD0JGro4+0ZkJh7gTQTpcZCI6pv6CvPJQ4NXxtYGkqpl7sAPtDWHmIKL2nlkSH6Gx81HHvBnulcylND0EtustSzfbjxJauDSiuBaDuSjKKz2ycCeXbFRwb5UjFdKZrMiKCNHJF6ARGbHycgbfo5gnO8cDHLFxgGoUUYNCnvHeArZwvgviH4gYBYpXxIJSaOUR9x0cJFlZS6Nho7A0latEx6MMEOUbxuUqFd3UxOoBmC2DDDdk1te6adgjr+vDcYzTafjp1G95vgbG2HDg3WOhE8DungYM2AW25eXjBZ5dW6Z2KNqyziQuCWOFIlZvVf/L1oMKd/0+HoF5UDr9yyN4QcDTGtIMn1k7KEfeUrnyZXMJx9EkH4fvAocOKg5bmTUj9vnIG8u7j1YCwiFQ9lWcFsduuKYcEI2jKdS6xih5BtckyN6fHBGT0esum1eTm1Tb++GW61DsgTeK6py4QTrKduBuqSXScioZpsrZ1GFme6tqHuNVmn4nTZLbVdt9eHiS2ORgsPfeg/YeSviW5LSBxi/AsVoY4LvSSh3dl0tT9FCoo4wqQ4/oLpfrpoY6iXzYxZ16WfGD+26euOjFGk4XT0Q3FKArho7HdUsSVaxQ3pegfkmTs3rDACNxW4qunHqHH7huC/ELhEL58z8RO5KhTzvld34uk1jQcf35Jz496EbcM38Km8fjZPAJN6BiuvUsCb9bCmr8gKwvNy491CdTp6zTR47c98Rjp6GTF57s+qCQNHhu0CD8vvY57e56R1UEEVHUkNaLfBMhgfDtZWMy5aaeY6NSj0wTmw1xPLLIWN732vZFdKBUnbPwjKtTiAcBcy0H18yTA7RH5WtYBQQfPd6A7gmLjpQb4Mh+zoTn9qkjVhHBwvsigXxqud4IzxoblAAi+H8vwNfk=
-    properties :
-     x : 99
-     y : 362
-     width : 226
-     height : 48
-    type : 4
-    code_elements :
-     type_code : 4
-     p_codes :
-      -
-        code : |1+
-         // Version 1
-         // Description 
-         // Libellé clicable ouvrant le navigateur selon l'URL affiché
-         
-        type : 14
-      -
-        code : |1+
-         // Exécuter l'adresse passée en paramètre
-        type : 18
-      -
-        type : 161
-        enabled : false
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x25ad002f009b2ba7

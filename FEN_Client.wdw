@@ -10,7 +10,7 @@ info :
 window :
  name : FEN_Client
  identifier : 0x25be1a1603c0a740
- internal_properties : CAAAAAgAAADKTbkwol8j/TXJeHVpWgP/NmxVH8KYf62MBiSBLN8e8i/sOsrnWoggE1RjUWIpKvPAHCZkLoTz0bZJsDPgzjRbx19h0gN3O0bqF8IezYx5mX1aj6757fCN5tw5fj0W0Dr2Uug6QgNFJf0DQvMdXLaj9EYiiwX02dqme3mI4BwBrZBACvb1InwcFzOvROpGiZro1LC5s060JGf+xSregtzoeTOPTnDV/AWc9wdM2dZhrOLWDO5QgJ0fuWsLW14SWe62xeEEeOSIXVSS2XwMy1sq7gLy8ti9daWufrw7ZZzcAq4XOzEVn3TsfGTFQUIBL2AHmJHHDi6lx/D9LH7Z0i6S6vQrQKGRcKc+l3Xx+1NoTb0WvmLdyibLu1JGILnDVtRBbCOfEXbJvWJFF0XzbUaIGycliNlvfLWfRBA2mDFD6BEn40MxpTxKBlHxNVVzwVKeOv3I7ti67RoYxSsA9MIW5c3QPS+L0c54Lx3aPw3KVzAVv78R17CfkISIi0LgOhrt/um+xRIa7aCmzFxkD02Sx+cro3BgkAxg1mKCIyP0uYr4LTQWj0oQFAdIzxQDZfi8RM5xZI7uT54FZia88nzncDnAk+Vw7vxZEsRFW8jBPi/GVhAubA2xrFRV8jBv/4eGsYQIvacKajU6EiouNJA03Ja+FkQz6Mpg/ml71J8/EVMCbBtMkNgpRjwctN+AnMDR5bQ5jAjpeZQrd+Sg7mMPRUBYbbxbEENPMY7IPaRFWnjEmVxvaV8bgnMrg65MnHnYLk5buPx2/6651tT+sk5yfOVmaBtrWOyBckFcQvwFoLF6xtKdQwG9jivjKpQgZ49/dH5THfGItsbSA1hGbi/NFivVYPN8F+ZxKy+rRd5WJjB9+k0lYmVnvqs02hdXPtLkyxLPHfQD5/QW+P0DbzTDSIkAGJouB/SHRcMImEWKtARBIaUk7wwG2/mLAIqA8YPYn+wJOH6pnQEOFCOM657TdgJH6esCGg6iJJxKvpYuDN0K7QJM5D9ImzV2iwiKnVqkOiFYE1RqtlyRI6SuXFa4HNDPDGGGhOiQrWXKNatxE+rSgeoFFuYqI36h5nm89CXKL9BRFY13239OmvqDFF9+ifbVrg==
+ internal_properties : CAAAAAgAAAAD4AzmhfUZo1ZP1SM06V2ElREnKBQPzjUwSrY1L82wOvNX8ebMnqL0VPaU7/Gj/YGBO7cBO+MxaJYYOekleiJL0cyd4BEt+r5TMNcgcUPHX2OvrTOyHzPsPbULeOIvHF8/cUMzCiE1XHoasXaO0oX0uYO0uaaNcd36a0zfcRdxAjvWDpu6rxe03c/5pzxkYb9uoskOlkJwNPiWNOY8Jc7h3UdYWm1ucgwtIkhNb1IBvx8QPoS4C8DcatZG7gpAwXXDRNhcX9/N8c36EYjSTZd1U1M5ZfYkDVIsDsw8/lX1655JiTW8NIf2hfFZ7mYLXdNeGFWyDpEuoVxyRHSub8GbiOMi4hbpbafBYvsKr6NG5vwB5pVPkXHRrrga/TKLtBY7b9kOkfp+iEAcA5ukf9x56mzlFic3BK95XK/pLdlnkYWBTjbQE1H/CkK92/OKv7IF1ucKplpsSH+U4LN3vIGoXaHpVUoVNnDw2W4gfYkuGAPlR8o0SEskpf8UTfQHsW95bTVHMogSkIK6htTQZ6s+z8PdBgRMVAIOixWVS13hqOg744kjbWe6YH+Eu/SAMvDn6oGbEG211d1LQ2vCu0bX9l9Ko0cD+RVbsR7Q0F6diVe0pVB954e6LyDEB6eBdVixsPMdmyfoCHKTkAxcdMwXNgGHxxXOwqsL+fYjxYsJrScxox9zb9ZzbHOWVsxhnL+gufvYZnzbotj9Oa8q24H4UQDeD2ltp1Gv7opRBHxrvBz5EvbETSOO/kMWh/+KmSGPNkCrh1aaGHCchhzTd9yrJ0wRSYxcFRYtJAt/lIvUY0zt8sK3Z1BOY1YC0gji7kzKVLgIutC/kDxzmV9aqAbhSARz5xOBButmSLcpn5Cdvexo9lamUdipeW7lo7AuBEGe14EzmALVB79tHB4xSdoAeTJLDRzK09b0CUsPyZKyb9o3bxsp9a6SqHTSVCejorsyWgt8IbQq6w==
  properties :
   width : 360
   height : 557
@@ -37,7 +37,7 @@ window :
         type : 14
       -
         code : |1+
-         Ouvre(FEN_Ajouter_Client)
+         OuvreFenêtreMobile(FEN_Ajouter_Client)
         type : 18
       -
         type : 161
@@ -132,7 +132,7 @@ window :
         type : 14
       -
         code : |1+
-         Ouvre(FEN_Modifier_Client)
+         OuvreFenêtreMobile(FEN_Modifier_Client)
         type : 18
       -
         type : 161
@@ -158,7 +158,7 @@ window :
         type : 14
       -
         code : |1+
-         Ouvre(FEN_Supprimer_Client)
+         OuvreFenêtreMobile(FEN_Supprimer_Client)
         type : 18
       -
         type : 161
