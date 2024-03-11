@@ -83,7 +83,7 @@ window :
      p_codes :
       -
         code : |1-
-         Ouvre(FEN_Menu)
+         OuvreFenêtreMobile(FEN_Menu)
         type : 18
   -
     name : BTN_Simple2

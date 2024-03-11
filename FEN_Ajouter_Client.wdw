@@ -31,7 +31,7 @@ window :
      p_codes :
       -
         code : |1-
-         Ouvre(FEN_Client)
+         OuvreFenêtreMobile(FEN_Client)
         type : 18
   -
     name : SAI_nomEntrep
