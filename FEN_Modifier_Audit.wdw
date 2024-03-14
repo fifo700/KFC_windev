@@ -93,6 +93,10 @@ window :
      code : |1+
       PROCEDURE MaFenêtre()
    -
+     code : |1-
+      
+     type : 34
+   -
      type : 180
      enabled : false
    -
