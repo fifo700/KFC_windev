@@ -1,5 +1,4 @@
-//MO013-014.TXT ANA00013 TO ANA00014
-Entreprise		TAR	182	nouvelle taille enregistrement : 182
-Entreprise	numeroTelephoneEntreprise	NNR	contactEntreprise	ATTENTION : la rubrique contactEntreprise a pour nouveau nom numeroTelephoneEntreprise
-Entreprise	numeroTelephoneEntreprise	CNW	Entier sur 4 octets$Chaîne	la rubrique numeroTelephoneEntreprise a pour nouveau type Entier sur 4 octets
-Entreprise	entrepriseEmail	RUB+		entrepriseEmail est une nouvelle rubrique
+//MO015-016.TXT ANA00015 TO ANA00016
+Menaces		TAR	119	nouvelle taille enregistrement : 119
+Menaces	Gravité	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Gravité a pour nouveau type Chaîne
+Menaces	Probabilité	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Probabilité a pour nouveau type Chaîne
