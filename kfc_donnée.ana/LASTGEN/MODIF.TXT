@@ -1,7 +1,4 @@
-//MO014-015.TXT ANA00014 TO ANA00015
-Menaces		TAR	19	nouvelle taille enregistrement : 19
-Menaces	Gravité	NNR	nomMenaces	ATTENTION : la rubrique nomMenaces a pour nouveau nom Gravité
-Menaces	Gravité	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Gravité a pour nouveau type Entier non signé sur 1 octet
-Menaces	Probabilité	NNR	descMenaces	ATTENTION : la rubrique descMenaces a pour nouveau nom Probabilité
-Menaces	Probabilité	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Probabilité a pour nouveau type Entier non signé sur 1 octet
-Menaces	estCoche	RUB-		la rubrique estCoche est supprimée
+//MO015-016.TXT ANA00015 TO ANA00016
+Menaces		TAR	119	nouvelle taille enregistrement : 119
+Menaces	Gravité	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Gravité a pour nouveau type Chaîne
+Menaces	Probabilité	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Probabilité a pour nouveau type Chaîne

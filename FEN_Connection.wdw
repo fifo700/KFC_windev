@@ -52,10 +52,6 @@ window :
      type_code : 4
      p_codes :
       -
-        code : |1-
-         
-        type : 14
-      -
         code : |1+
          // vérification basique
          si SAI_Email="" alors
@@ -104,8 +100,9 @@ window :
          FIN
          
          
-         
-         OuvreFenêtreMobile(FEN_menu)
+         id_con=Consultant.IDConsultant
+         Info(id_con)
+         OuvreFenêtreMobile(FEN_Menu1)
          
          
          

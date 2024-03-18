@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Entreprise		TAR	190	nouvelle taille enregistrement : 190
+Entreprise	IDConsultant	RUB+		IDConsultant est une nouvelle clé
+Contrainte_Consultant_Entreprise		NWL	Consultant (IDConsultant) et Entreprise (IDConsultant)	Nouvelle liaison entre les fichiers Consultant (IDConsultant) et Entreprise (IDConsultant)
