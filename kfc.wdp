@@ -24,13 +24,13 @@ project :
    -
      name : FEN_Connection
      identifier : 0x45c768f3079a30e6
-     internal_properties : CAAAAAgAAADjX9vP/KkBGibuzRjpP2K24UIsjMBeBr+yklD1koML7dM5093KfVbCh7wmkhLOqh7mbg==
+     internal_properties : CAAAAAgAAAAQ7khUUwggO4GN7DvUSr8LKo3pSQ1cuV12aa2LwUbOMpYEJgqfoHPh5ltFs3NtFYt1/Q==
      physical_name : .\FEN_Connection.wdw
      type : 2
    -
-     name : FEN_Menu
+     name : FEN_menu
      identifier : 0x45c7690507b978cd
-     internal_properties : CAAAAAgAAABq4FK2dTJ6pa9nWyvQRfFYQueBUWXLzyuuI54fervZJ8V5VBSQt95PEDWvCYlHM6Vv9w==
+     internal_properties : CAAAAAgAAACgnpiEIxgQy5HdPQnGU4dqeHV37+tGTihKxMB2zElLlVOPYgaipcCxtmtVo2OdZVulrQ==
      physical_name : .\FEN_Menu.wdw
      type : 2
    -
@@ -42,7 +42,7 @@ project :
    -
      name : FEN_Audit
      identifier : 0x45c768a906a510c1
-     internal_properties : CAAAAAgAAADCuDpuXQoiPYeP0vvNb/e2aCW3f8tRjwJOK2e1oGWvYZerGvauUGnX6F1HsXFvC/3HTw==
+     internal_properties : CAAAAAgAAAAtKQUZppObRBwoC5AqTKJpt8qGrhAVvvR2BUzHCwoAMMRYT8HRdZSAQebQKOgY4NA4OA==
      physical_name : .\FEN_Audit.wdw
      type : 2
    -
@@ -86,6 +86,18 @@ project :
      identifier : 0x45f0739376ca3322
      internal_properties : CAAAAAgAAACB/fktmsdvAMg97MBYz4OQE1xuPvKwgJq22XZHXKn1E+HPtX5dGUotrZIM9Lw0zDyEjA==
      physical_name : .\FEN_modif_client.wdw
+     type : 2
+   -
+     name : FEN_Menu1
+     identifier : 0x45f83dd71ee24234
+     internal_properties : CAAAAAgAAACzj+s/DHkxanbffE4utbD0EWzI+MJ5C5+iRtWv+TxWSr4SPIZZzZrrFwz2wkK+ui6Wng==
+     physical_name : .\FEN_Menu1.wdw
+     type : 2
+   -
+     name : FEN_GMV
+     identifier : 0x45f835c50a17bcde
+     internal_properties : CAAAAAgAAABz3Wkl9tPr4ZB6YZZuyrkaF686iPum0+E60JB71T9ESrq40t93W47l6b55BinBfmX2
+     physical_name : .\FEN_GMV.wdw
      type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
