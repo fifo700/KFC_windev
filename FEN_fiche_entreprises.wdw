@@ -139,7 +139,7 @@ window :
       -
         code : |1+
          RAZ()
-         RepriseSaisie(SAI_Code)
+         Ouvre(FEN_Client)
          
          
         type : 18
