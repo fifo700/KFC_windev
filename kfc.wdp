@@ -105,6 +105,12 @@ project :
      internal_properties : CAAAAAgAAABTr4ufLBkRypY/69EB3LR0OWQAwPppyKiidsmD9SByrlrmaFb6wc1Lt2xWomKeWk62vg==
      physical_name : .\FEN_erAuto.wdw
      type : 2
+   -
+     name : FEN_fiche_entreprises
+     identifier : 0x45fc2f660849d5b1
+     internal_properties : CAAAAAgAAADduTXp1oOrtAx9pCeeWk9RD1J+Zuhr9D1KCGrFS9owMNRYvxYwmP4tcdbAOPjokADISA==
+     physical_name : .\FEN_fiche_entreprises.wdw
+     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []
