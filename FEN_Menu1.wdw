@@ -63,7 +63,7 @@ window :
         type : 14
       -
         code : |1+
-         OuvreFenêtreMobile(FEN_Audit)
+         OuvreFenêtreMobile(FEN_ER)
         type : 18
       -
         type : 161
@@ -82,8 +82,14 @@ window :
      type_code : 8
      p_codes :
       -
-        code : |1+
-         OuvreFenêtreMobile(FEN_Menu)
+        code : |1-
+         OuvreFenêtreMobile(FEN_Connection)
+         
+         
+         
+         pour TOUT codeRecup avec IDConsultant=id_con
+         	HSupprime()
+         FIN
         type : 18
   -
     name : BTN_Simple4
@@ -173,8 +179,8 @@ window :
     identifier : 0x25f83d8909421378
     internal_properties : CAAAAAgAAABUliTP5i2thKjySEW1LoMEKoPmZGYQoaNnXcP93ZRSTpup8bmiUxJNI8B94YNJtEim5eymC0+WHpim1H8PoCNsAIqP0qUh87k7peLdwHEvOhPNJrS3E3oN/mdTVMr4+FKOMK3R2uTA5Y39mxpUEuujGvWYbNYX78K+eNjKOodbxcsKTMFHV3362lmW/too6ylqU2eol8kuAVlcFzbAiC7OM4w7fVg6O1ZqJw7Uola2b69V9aAeMYjDvxB8kGLmWR2kqxCw0WyozrEQgxJFrj+4d7Pt1+4FvVD0DVSpcJyaZhNstBFmzFAJyKfQq4eanlj6KhjULoVTme3/8fPPukWRrYPjcDjI/p7fY4zkaUyNPGT2LcIOtXW0H70n7GOoCWvM37I1px1FuzaFT9HiVznoIe4Jdk/XnhEdAPblcFst6sXfiFaefhQMZMH3mKEBU/Guytw0jqqLa5zQ5NhAxH65D3jayJAfWZmLSdZnKERfAfxTw/sBslfa
     properties :
-     x : 82
-     y : 46
+     x : 108
+     y : 48
      width : 207
      height : 67
     type : 3

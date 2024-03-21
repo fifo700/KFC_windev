@@ -1,0 +1,5 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Entreprise	IDConsultant	RUB+		IDConsultant est une nouvelle clé
+Entreprise	IDConsultant	RUB-		la rubrique IDConsultant est supprimée
+Contrainte_Consultant_Entreprise		NWL	Consultant (IDConsultant) et Entreprise (IDConsultant)	Nouvelle liaison entre les fichiers Consultant (IDConsultant) et Entreprise (IDConsultant)
+Contrainte_Consultant_Entreprise		DEL	Consultant (IDConsultant) et Entreprise (IDConsultant)	Liaison supprimée entre les fichiers Consultant (IDConsultant) et Entreprise (IDConsultant)

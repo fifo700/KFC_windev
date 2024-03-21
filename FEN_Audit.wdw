@@ -166,7 +166,7 @@ window :
      p_codes :
       -
         code : |1+
-         OuvreFenêtreMobile(FEN_Menu)
+         OuvreFenêtreMobile(FEN_Menu1)
         type : 18
  actionbar :
   name : ACTB_ActionBar

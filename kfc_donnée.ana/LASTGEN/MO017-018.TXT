@@ -1,0 +1,2 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Contrainte_Entreprise_Consultant		DEL	Entreprise (IDEntreprise) et Consultant (IDEntreprise)	Liaison supprimée entre les fichiers Entreprise (IDEntreprise) et Consultant (IDEntreprise)

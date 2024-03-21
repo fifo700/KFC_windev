@@ -1,0 +1,2 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Contrainte_codeRecup_Entreprise		DEL	codeRecup (IDcodeRecup) et Entreprise (IDcodeRecup)	Liaison supprimée entre les fichiers codeRecup (IDcodeRecup) et Entreprise (IDcodeRecup)

@@ -21,8 +21,8 @@ window :
     identifier : 0x25f844a20b79ccb2
     internal_properties : CAAAAAgAAACKkTk2tkKVyYbtOezX+/69qqO8GkzUd7GQ9TF8OqgwrrFRACo/kELB6QfufUUKB8sfKdvCplldqPJLtp1vEQi04n8qlzmZ8fM9pRHmzOtwv/X2ceEqlkvCLRDASYR8g+EBxqOis5mKrt3/x20E/KbeBSsYu8xa1e6GUi0ZAR7ACCh4KTeldJW/K58fXWZm5teWnkqRjlHZNxnVhNQwOzXv+ztYLwauAHrgnr8+bboNj6GFMkFnlJ0hdXlVp+PbziB6z3aQoCuoYEiKrWZ4dz3ksxz2lqn8EebCLurJtOMH30vB0ifYCX1B1Z0PXLivJWi7nIL2qcOIGKhYVoPMHa4Arut2+IuVBFj8br72yyGzeo1k4bhkPluW5Xp45kHWdAdg8S7FHBzHdJMj2WxRa6GzocJ/Jqsecwcrwt7+MUQ5/2cnozSHCVgP+D780epBKOmPcq23WExcpOc0knglBI7hlxPxv7+88ECzotkZBfcfF3A2urIdZOJqNAc86cAqsqIYOpmHK+CkbPMYcE0W6jfSzyCPT+kA/oDkWH5k85FR1z/2fRKAmZ5NSZzEff2BU1RDHGxWvbwfHl8JS1ughtQlanJ9SY0YC6D6chuKkxwjJMLGAlXsaQe/5v7xJpH30A8vAi3hR9DhpuhrRw5GHXw1/tJ4PgyDgmrzUv/wUh/KUHcu/w2u0cJsV4E2NkLeFr5gvvk7B7CnLn1c4oBq73ZhEEKY97U8OHRdbvz5k7qGbB6ig0Mk3Letd2RBxzTTYmqAJQy4Y9Bwo+iFumyBT52vIfp0SuGNrQJq4fh/JUmtDHeB4+kQQ3AlYg10JAIcMj4UajKSnuhczvOpRAPhpL/qwP3f4ADraShwW0zmanAHDYJ9i0NHTfFTkXNQnvAqv3IrkyUBJQ==
     properties :
-     x : 99
-     y : 140
+     x : 89
+     y : 81
      width : 182
      height : 59
     type : 4
@@ -48,7 +48,7 @@ window :
     internal_properties : CAAAAAgAAADGpvUu6B8bhM2TDiE4CWTYluEcNv0/SPIIq2wpDxg61M1B/sQVU+bR4FwQVkEvaMVTEui6Tk1SAGDFgVzfE7kvwp/KOhfFwwofautnGvkeutS0lm+Wll7kGrvX09XnssCVP9RugKqWah/spH24YadFZhSpWvAFGDUdzx502Gz2Ia8vXlEUiTIPehfpvkk9HLXrzMWGdubuA4EPixkCUyoHZdQZudoqCFgTz5ko9BLuA8rlDJVS7XxTlGieymkJXFJdAamMrxWvba8czX+AnantYX5BqEfcFqLsbKaauynpuSSv/cCtpGuL1GYPtGSGz3h772AnN3B2xLDHuRIg5yqquUTizAwO7+4BA4KGRgSRsYR4fPBGWbhhUA4Fl6AMOIwPi4NIhu3omJKLV6YdRiXWp8N1Biy89sNPUhm0cHAlMiS1i/xzj5hi4HnsoM//5JkmIyydkV9wDe1OzsEM7VgI/6CfF0LJTF85BEFEIqS9vlrj7iRYZ1QhBgWA1NddbhFawR9LrGnwB/1u4C5p0XkdXXMhH8Dbuu307HCn/Iz7OGNXReiNmIaC3UTqDJo+a59/BX5iqoctazNBjRZ5pUZwhNmL/YAVmW0EwD894ve7zfgvwj8BQFncbhLLq96i/HRR8VMxDAd/hypZf1vN2qLuSFmgVJcUxvHZnEOjx6bc9S2PCW0pQFhH3w0Ml7c3glvaZUfPIFFBfXl0HBHvKs7UUNcmt0pfHIfHpKz+eq/il8gJQRdvd/Mmaxy/eqV2TGFYUCi2MrdCRCipaHtUQi82ZxPQmFrHwiCmWtkGi6o/iNh/uimNMdG9mxx5k0ZhERWKJCx2JTY09W9iShnm0Dt10tLF/uNuwXlJ7p1U1NZaZleegvbnh8+aFEK9CFL3nTxI9jN92YI=
     properties :
      x : 89
-     y : 273
+     y : 220
      width : 182
      height : 59
     type : 4

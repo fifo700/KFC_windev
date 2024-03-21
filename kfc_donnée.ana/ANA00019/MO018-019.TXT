@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Entreprise		TAR	182	nouvelle taille enregistrement : 182
+Entreprise	IDConsultants	RUB-		la rubrique IDConsultants est supprimée
+Contrainte_Consultant_Entreprise		MCL	0,n->1,n	

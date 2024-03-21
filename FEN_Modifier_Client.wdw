@@ -33,63 +33,6 @@ window :
         code : |1-
          OuvreFenêtreMobile(FEN_Client)
         type : 18
-  -
-    name : BTN_Simple2
-    identifier : 0x25f0709e0ff7a7fe
-    internal_properties : CAAAAAgAAABnR4vGiA69XMEZJA8P5bOXY+Kz6vkYEqwq1oviPeGfQKVQb8FMnNmDlEWzs/oM/BIo/c6+MwGkjjFUA5DfmgRINr04DnVEdRytTSyrR4+UMDdgQCI9LBTcqgA4mi8ZXyQU5KgLRGe4v2WqDyA5IMsZ5935bR4tySAR0/DHLtL4S9gTt4cYNu1aqjKxPRcx1HSUxDiBkUysWiTk/4a/Y+4xlbe3ci8mjq1IXZsk5MnQc3WGVzsNM1ax5+YVXY0V8h4bLb+zFTJhe2uNbKdH6TEJg1Kw4Qzd+SdPmJk1yUvl69epeo3LCEQ6mi/CGtBzkmV/l3puNpYPQPL329ZWwB38mby6KF3Z+eJ1/6o0Hh178cCRRG2w6uXLDsRAR/4CfQaZsM8FJ2VnmjWeXPlbhF9+Nihm1Ia3GMCXHWh6AdGdfyPJadRcPz/g/2Z0gkFb7rfIUuFOmuZbVL0CTg2UArS4GUScTObz4hppLyklaVZv7n0PUJREgfQ9ISA1VVN4WNYYmr/UmoWUM3CpmqXYXB5o3gbRYSjojRFpRXp5j4v5iXycspXulhbWWozghNiPyHEMiAg4KBA2bb2ZWp6Wyt5yFSW8E06BSBZVnATg+kg0e1ZC7TXCABNCNfcNd2/juTkyZM7IyJyw/DvJjvVMEXBNj4z6pnjsoWZgX4LLYe3OqKboFg8fC3Tggva7W189BfK+cwlNo+Fy0PY9RYeXjed8qLKGRIItdO0o/bqWxLguvmcBM1yL9Zs7HIYLOHsKZ5/gX5MpIdTpKfhI0mSRauzLAPlHkRcYh2l3c7bfflCa2+DS6RqKJoAGrZtZKvRg6vXgkDGdZIEJFtmcnMhcyfLui5TZfmKCJeIDsNCvQjep0vz2yYumDQnjn4s=
-    properties :
-     x : 89
-     y : 404
-     width : 182
-     height : 48
-    type : 4
-    code_elements :
-     type_code : 4
-     p_codes :
-      -
-        code : |1+
-         // Version 1
-         // Description 
-         // Bouton simple
-        type : 14
-      -
-        code : |1+
-         OuvreFenêtreMobile(FEN_modif_client)
-        type : 18
-      -
-        type : 161
-        enabled : false
-  -
-    name : LISTE_Entreprise
-    identifier : 0x25f075a610834d5a
-    internal_properties : CAAAAAgAAAB3506BkoufdqEeLVHIo+Rc63+cSruv2C0K/89Y/h33E4v9oKYonMaDOAoWqIL+4lNBaWDYbbVM9bgw9z2lJpoFrYPZ+USvVgFQTZ0fZazFxrpYonVQNNOa7/F8y3i0M54x+TMY1f6seOhcYuG23A3xOupVFy/xDUjzCVPUdE9UhYWGaCN3/UlG1hzLustF+QU2FEmVt/BkNwRBq+z9csh8xuE5kdaqnLGVRrMOdE/gX0N+vupiYt+fvkQAExGvotKaTgFduikTzpX1O6bxd5O7jjqBTx+fMSBPmIdUlPW4DnAS0caD/ZWt3NHQQwwz8z4LNzvEtSOOdXKf0g5z1LpP5r3mBD2ckoVTrvZaElpAA6lk5yT9F2UQi4VCpsD7Yq+RPw0AfWYt/v/G7okZHBnJ7gdtnCnn6ERygwg2wEISSoxwUpI2DcmJTHuINKVsmT5BL90qrKHjHWE/C/RllYkt66qE2T3rRkBXL88GBeEu0n9vavi5c6O6it5CuVp5mJ1RUTRBIl1ef5pAh2gLbtuWhadUcpyMq36ly1qkcHLE0pkqHNC76vTvMsdbnFp0RPgIsA1nDFnLFTIyMsHQXyqzmKjYBN4eFWSDij0i4rl0zs0+wTZFonhaJ+T4i3WO2H4X5aor3i7uGdHZxJwyuZiasNHer67/kwVJU5ZbahJLHlrWjrAOv91nFXqagh0BIxPpm5S9C7HG79njj4ZY+V+EVEE00x4ayS1rVzIRVrovVrZ9qAzEhFst1crJYAXGSoIFJ0iYynq/cXzCQY5mwKxM32UcUB9c4lMJZZuQDJywBaj+qR0eANa72rIWuz7Y5X2kynJXO6lE5lTx+zy3HFihORVo0pDGRNnC6EjxLX6KFopdxHq+FbhBBRMW22vz4k4qu0Ff9kfAo3cGAQI2QkZ9CHqfoqgDwz7hp348waQ2dizedxkP7q5AzMkDWGFTzVzx
-    properties :
-     x : 30
-     y : 61
-     width : 300
-     height : 240
-    type : 7
-    code_elements :
-     type_code : 7
-     p_codes :
-      -
-        code : |1-
-         
-        type : 35
-      -
-        type : 22
-        enabled : false
-      -
-        type : 24
-        enabled : false
-      -
-        type : 23
-        enabled : false
-      -
-        type : 25
-        enabled : false
-      -
-        type : 66051
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x25c7730c02b5a425
@@ -100,7 +43,7 @@ window :
      identifier : 0x25c7730c02b6a425
      internal_properties : CAAAAAgAAAD6DW9r4cxmp2VDLcxBrkr7BUroeOrLfGXVhZxOjgpjHo5vqazmsL3n3YsWzU8Hb23+8vVd1kz9mPD3iM18WBVrvCFMExfcCZlE7VA0/XZlRie6r9SgN44wE5IYyWVRWO8VaFjD8gyrnyIkLVWDyW82I6cmhIGRlwEl7G66wcaCa47hTCPlpkRU8iAxsvWk53kncu0HS9OeeR6LQNPuGRSHd+LdFZd84Dqs28OiJOX1rGJwmLjzeRtabboukzHt65EGrtvwPCXR79u+Ntztw1RtS9SlRNquG0ibbVWQa5giqMfojfJoOOWl8jS/XHb8dKl3n+S9nzyztGDPK37mVaQtSqg9MrHSv9HxPJvwwchWXGYbT7D5gyejzQ7kgh/LhDdUXmdrMhh1AGTFI5dmNRsfvYtitTdpTZKzzerGmw+4vrT98czncvhm9ymgk4Kte0TgQd7pQD6arzaaJyq1wBSjKBpuN4Pvwu//3zeyIClMPAz6c9Prsw2EcHYuDpe+mYHkPuqximzwblXTPmHzG4nmOAseAcOO2Q==
      properties :
-      x : 94
+      x : 104
       y : 21
       width : 184
       height : 30
@@ -116,19 +59,6 @@ window :
       x : 1
       y : 2
       width : 70
-      height : 60
-     type : 8
-     code_elements :
-      type_code : 8
-      p_codes : []
-   -
-     name : IMG_SansNom4
-     identifier : 0x25f2a89202fbf89e
-     internal_properties : CAAAAAgAAAAKqM3VSzg3w1T0oN3+zRxyyrAnLxZlBuEgbd0ZjEW6cQykk71y6aQgORC/bc0iKyXm2yPdpyPmDxw2s3PYBbTRUnqDECNTykizJc+NsP7Dj3h7Dx7sxT7CluamV9J2KoJLYzOe/MpETukLav2R50EFmOsaOJj6BE7pt2+UqzWLyMXb66lIAKrU8tgijRCIBRdIpnb+25bhVfwZ4n7HuYj6gi7noWpZb/pEJHLv66MVqSsKAIHA73RJt9kK2+HZWdh3rax6lEU9N13+/Jhhr4f64UTboorfCUFDEcVu6ciNSbtrlz0/xrDW3lry4CGgrNKqi0n/YB0q4QGkQpwE+u6Ln/UcvgUq20xTJOrTS3X+q6cMVJ7iJcvxzsau7/hgeR+juf2HTnhngCDoMcNqeWkEo9s62oFTnecNiixUjveavFFYQZtdS2CZgc4lW29m5mJtAYps0LFZdwWhfkbtwD5JSSCjxpA9BLBYkETWT5Yo3QGPLihOZO2FfMmL2wHKRqILkJpZ42j1483H9sxVcPi2AQh8lHajRkYk2bOtqhxxV6FYWm58P4QCtVLvyczhFL6vRYYKU0K66z5rssecykhFwCVwHM/3dGYjziYcWZtbTB+LTa6JSjIaOc5AuR6uLrcFBL2ITc5sDwJb48bTWvrE9DPK+3EUmYpQtwbXLZQNp9fIkUJgkgsl2USgFbZzIulE5FUtPhXARl2VMOtf+SsCba+rL/NLW4jDO9pDz0YVLYNtccBUAzFOyDbbOiDdWB6/PGyvwgcDiXpkgV0KV5rKOe5y5S+H3geQOdffjePDHUxTghKl9zICrt78B4E2
-     properties :
-      x : 266
-      y : 6
-      width : 86
       height : 60
      type : 8
      code_elements :

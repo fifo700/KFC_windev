@@ -19,12 +19,12 @@ window :
   -
     name : SAI_Mot_de_passe
     identifier : 0x25ad002f00962ba7
-    internal_properties : CAAAAAgAAADL0c9QFaWsnmq6q29kz53n8Rh9p/XGdZ6kCY2E7Zp2SRQfkuwU0zAeC+A/f97e5EwNzUs96d2fKqjZiUB8TcnFIkqmZRYGgb/7teU1zttmRJkTsW6ps6uBKb4nzTYoJgXY8Z41Fz+Y1S2OJ1cuhN54iT8TMFSUtV5ePPMqO7YPdhMLgQ/6+rqun0Zx43PEzUXSs1NmvRCYeWOiD3H1oflmhUuigBOZ9p8NMbL1W+5B770cvmzPoGIrjVHru9cW7B8azKsqj1MEWIa4D2op/QtYjzyPy0wpDPyElA5fiLmt1TRM7u62Np0JYsv1jRmefq13srnZhjzpKJfnpQqDlB5N1m82n1rOJR2WzpNT7LV3vHGsTAvq5Px3IDlBD0tam9pGTOqVGevBvWJ+9UGA/RDFy3vXuu4kU6hU2RJegyL379nUMamtL8P7B7+CPxch424VIlZgx6LdGGCU0AM6PBoIuXJGUAizWPB7md+qqsV4c+5F1u0n8NllckltYawE8jefEZy4jNcdedXW49QMGvqwgg0bs5BEu6KYAsC7bDPM9T2ii6JUmyeMxV6K3jn+OCSvzxslrllUsIBqmWRhbGvjcnXfmThLk5tEob65TMEis8dNTY2SqcYY5pytUoMP3df7/GO4aTR6/94Om0onKS2Gr2CmCWoVPrtXnmAZfusMdzgLGvt5jhLp/34Q8ScW4guNsM9CQdgWfc2jwbas9NEbOheC8vfTbC5OkvwEvtrYaaPygmR8a1lhZ0ZME1B6CbmUCSoa6epKcn7aXgCuwqSZ0Jn06rVcK05nptBZilOcgcNUflyk1+uZcQhtSc13oTgtlHGHcwGQhf0h7XQYen4K+B6nrjiCykBhEpXpSmPB64ukyI+FYKvNzR6EHqemKsXVMqjFxHlh4KLxl6Gn7voZ1gbsrxfw4REgCdliLFKzUEGfUDVwBmrYvOoB/bYeLQogeH1TP2No2X73IUqaB/wb+R5Ru+MfZORsDKR4FQEY+ZiHxLDyg9wh53H3NS/usQo0oZMRLXuIjF91SSYN3t2aP9PYLeUswaAzovutwSuuSO5uOOUUSQRMNnIU3uswyRkIqB5i7+gRTg0+fBS0tUYkV8RI
+    internal_properties : CAAAAAgAAACHFabcbZfsiHQeibvKVwfhnLU7KZ/uL1qcG0V+fYLKF3DRGpYDw8DOmI/gkW5WA50CAb1KT6ujqjEVgIkhH3TwfH1y0wU+I1jH6/ZuDQsPhWZAIbzu9c1SjfIofbkvKClMSmCh6O4SWoRkdXqgxrNu/Y4FiRg4JfwQcU+dR9xfzZMpTsjRYMZ59271/UZN3TGmmdzbTZA06NOAl8E41R1iYb8OPI/FUnvZxW76Bw/d/AnuYAVb0/JXhUpzH9lgSECPwe3MaTFkcv0FlkcIHc9uEWAqg/ny9GDFx37gaw42Vb2S4F5EB006MB6VxlfR2oQ4wF11W0nDnVbil2mwrCsSFWIMsxffrPKS278bDLQ8ey0yAxnj5kd048ERzLnhQLJhMNlpOVXSKig5j9Zmj5s5irAejvAKeY14JYtrj1tcCTePswt3iK5b9QHhdRQh3SSFEQx4m5RCPALshqkmxpxfAEOj6YL9B3g2FIbS4NyUKXmwOO/1mYimTbpxovnOMhmHOwCVKFKm7tk2DV+AonWxqz3Xk/BxDL83aDJmHbZzvBgTsEcIfHgE8SrBT7JhLHrIe4OYn8fX+YDzwZ8+hycaeAGj+Ud0AgAkbhaDSvkVkxljV9P3G6Rs67NELKWnQgbul/It5q25fGu9POM4Jh7zIudpO7zf/CkpmFJLqGFOPUbNFDG3fgrxXxagL20gyO2H0ttrDcbiPnjkn3pG5aWVkHZctuBDdY5jZBuhU7PgXbRJcm5QtoZ+JaTXhJcnDE/32F0diBW/BoZ7Wuft9oNSmUb2GdjqTyMUDjhSZ3uQDwFupeEMzhuEOt5+2vRTrKnR7k/Vl/u1FW4Xxqk9cxE7hYIsIroQZJBP0+BMn2cNFFwLd/NRSYo9dV5s3l++MgXNMrjVtMmyBVu8gHu52MBc8B7sT9uRWX8yK3N5femtK3dDYKQdp/syOCFkitGJUgb485D4de9u/jkA5S3Z8Q2iMhR7dStGQkqP4akOvzMHKvtZL1LlVrqYXwnhBEy5/fKCFkYzRO66IaHzDjssJ+oqk40bL3r9dKHRJRstQYvvUVf794CP1NHbWcvXcX5rFEA59gE3pDtuHSBXC4/3RAEDo4iE
     properties :
      x : 79
-     y : 208
+     y : 207
      width : 255
-     height : 44
+     height : 45
     type : 2
     code_elements :
      type_code : 3
@@ -52,6 +52,7 @@ window :
      type_code : 4
      p_codes :
       -
+        internal_properties : CAAAAAgAAAC8e/q7RTMVx5srVPhoWhi+EXWiib9fU08DlnDY0AMzB14pOQX6hfJg6reQIzk4oy5cPcaaNqr8Och1q8oCTkDjXa6+ddNQ38XI2Vwuekt2Mc0n6hXsG7JcaKCGcy1n3Jin1NRp4OkV6JkrgwhzD3j7sKYY1XK767VZpwZ5GEjryLp0ZWH7Pv7CLgQ1FfQJV9VdgVTWJJ34KqJjn/tQ+qm7Dt/dPXvtnWEsWZ3OhH1weYG97b9cbLQBFaNylD72wZfBhGeL1uM71nghbxFjXSF3h6k5PbzAGRMx3awgtXLSTSZgBSxa6B5MSi3df9MVSy3oGejxhH3H1QJOFHoYe9rdsIrINIYrCNS5rYdm90W/DgQH0yp4a3X0
         code : |1+
          // vérification basique
          si SAI_Email="" alors
@@ -101,6 +102,9 @@ window :
          
          
          id_con=Consultant.IDConsultant
+         codeRecup.IDConsultant=id_con
+         HAjoute(codeRecup)
+         
          Info(id_con)
          OuvreFenêtreMobile(FEN_Menu1)
          

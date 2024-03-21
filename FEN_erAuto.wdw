@@ -21,8 +21,8 @@ window :
     identifier : 0x25f84d4002347650
     internal_properties : CAAAAAgAAAAEl7mYTmmLGRjKpx8CWmGo1Yg3PxbenBvAT8v5pOwOaBebuuX7auQTbHSxDMZZONzuG3qPMjq2vmbrgeml/6Bzb3ReTjipnDZF0cOdHtaEubkOd7Iy5UW4YXK5BXfCl1RZi1QJXXoQAZ9VoxYZCPI260bXAukBAzQ+1QafHpLcitb7ZqJKHCnewyFJu/Ucv/GdPEeaZFsSRmzShFZpXahO8kXHq5PXlDo49E326ws4AgrErkXq65Sxn4sff4iOEQ5TQfSt3UOpZAtloGkdIO4/a9gc7cVk3Xx51bUFt0RN6Jmrk4ndV2S4zC7i/bOmX8E1WeKHLkfbYsOinYxCHbZZuIRVSPCVDkZHVpIbuAY2zQZSQabNKWP29scaHc55ZrBovl5j+CW8NViNae0XLE0Ck3UuYLuu+wwJpslFwDCvL1e0bndC7yAdfyG904q1hi7/1EPUXF3BAhwFpLL014ptTiBbsv1nSB5tAleKT6G7G4CCRjT69tss8laIYW2rnAb3lqSH6WA/dNbWezLCpv5hBz3s9jWK1GQKrPsVh6/0PWCZBIszDYtqBx1MXgFmrZHvJGap9y2lLDh0puifWfuidd7BQOO0HRLZNEU6YNQUJcpQEjyHZ6ctDzdhSD3ko6ikRuYwuHoKuyh67j4d3x2WpRWCBK2OXf4X8p0AfZV/KLNBVTV7ctXeYm1cKyZu5km3G58Q8HQiIo/nrLOiT3os45v/nhkuliNhlMuZqZ3fDSua0e7TKb6cWpZNwmvMR7DVq0zhh9ZmIIdW1URSmlAXP+aLaMy15vNQ7S6kfEkVMTmyT+f8FKxJpxy4noAPO3AQAzl7d/X1Jgw=
     properties :
-     x : 26
-     y : 68
+     x : 22
+     y : 80
      width : 316
      height : 240
     type : 7
@@ -38,11 +38,22 @@ window :
          
         type : 35
       -
-        code : |1-
-         requêteSQL est une chaîne = "SELECT Entreprise.nomEntreprise AS nomEntreprise FROM Entreprise WHERE Entreprise.IDConsultants = 3";
-         InfoDonnéesSQL	est un Enregistrement de Entreprise
+        code : |1+
+         Entreprise	est une source de données
+         CodeSQL	est une chaîne
          
-         HExecuteSQLQuery(requêteSQL, connection, Faux, TabInfos)
+         requêteSQL est une chaîne = "SELECT Entreprise.nomEntreprise AS nomEntreprise FROM Entreprise WHERE Entreprise.IDConsultants =3";
+         CodeSQL = ChaîneConstruit(CodeSQL, "FRANCE")
+         SI HExécuteRequête(Entreprise, Entreprise,hRequêteSansCorrection,CodeSQL) alors
+         	 pour TOUT Entreprise
+         	 	  trace(Entreprise.nomEntreprise)
+         	 FIN
+         	 
+         	 HLibèreRequête(Entreprise)
+         
+         		
+         FIN
+         
         type : 16
       -
         type : 22
