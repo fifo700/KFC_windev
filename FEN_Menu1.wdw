@@ -112,7 +112,7 @@ window :
         type : 14
       -
         code : |1+
-         OuvreFenêtreMobile(FEN_Audit)
+         OuvreFenêtreMobile(FEN_erAuto)
         type : 18
       -
         type : 161
