@@ -111,6 +111,12 @@ project :
      internal_properties : CAAAAAgAAADduTXp1oOrtAx9pCeeWk9RD1J+Zuhr9D1KCGrFS9owMNRYvxYwmP4tcdbAOPjokADISA==
      physical_name : .\FEN_fiche_entreprises.wdw
      type : 2
+   -
+     name : FEN_erManu
+     identifier : 0x4601a6301fb34c84
+     internal_properties : CAAAAAgAAACppZH1Mm9HaHGk8Q+x+Da0aRQw0Ovq+K1KKAefVqDyznqmOJQsM63tEgr0zFSMdGSstA==
+     physical_name : .\FEN_erManu.wdw
+     type : 2
   other_elements : []
   analysis : .\kfc_donnée.ana\kfc_donnée.wda
   net_assemblies : []
