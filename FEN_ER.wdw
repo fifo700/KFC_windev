@@ -68,6 +68,26 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : IMG_SansNom2
+    identifier : 0x26044628176a677c
+    internal_properties : CAAAAAgAAAD/0K4ruXQec6jS5s9S2yVucDE4M7wurZS0GWctagc4s4dQEwd5zWZqFAVbg5uapkwegojqWSc+e1Y4cdV68NKRRgeHoQH8k4BYPFJqF6v972n7360AxRHuPRWR5zfKKE5YNSHdk4mfoAISc+VrGvE7axOv2zLVUoFVb+xshLguLhZ+sTd9WHhQfW0e9B8and+SM3i1Wv4ADygOePkhbFSIxFaKzUxq3z5PtUJvfSuxLgm7KcUB32XDCGij0uKnp+xUa/7WMRn7g200b9jHiUEv2EZa6ThQfcY6G3GzDC/kGvBdGbXIbQVewD0WwrVyR86bR8r8rHfRmpS4J465/DBkMLQOg6Tz5D/8HY43zWFzWzOvKLMDjztayQAHQJzVnIGbsXhvtvFQKdbwsTartjZ8+M8Bd945NbXVceRkPfwJkkjoHcpgf9yDGNSCjdNex3SIrkNTpUL3FOvhCWmOPtfUgt/7jHiCOIqJZ9ClPFCMFnbVPZCGdqsagJKoU/N76XRtPdcjqnP0Rj7MlYOemlX+n2r3ckkGtCmn8YcInn2HagWmQ7MrdA49vDizLLKThMsBPVNcCVAM+MNfAvdW8IFN7ixePgZfijJ+hEi+c441UNeLKJf19SBuo5qsWkQys9MG8/8TdY8vE8SwnrcT6uvTyX2Fag16dyHWMUL3CUbpkalBguINSEDgO8yB5UfZwsepp0zDxnAjguUzCWYwgoQmCflHIMyWquyYziSjaM6XJnLrtvLB79R0C4iHYhx+CFZTy0gQ0TkkYvBb//0uw1w41qrByEFzxPlXfnsQF68abIbVQNJaNePgNkg+6EcQ3bZSf7CcPchhZ8ufzjEAyrLJwsVBmDxOU3I9FQ==
+    properties :
+     x : 8
+     y : 8
+     width : 42
+     height : 30
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         OuvreFenêtreMobile(FEN_Menu1)
+         
+         
+         
+        type : 18
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x25f844810b254aa1
